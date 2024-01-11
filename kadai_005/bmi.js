@@ -14,4 +14,7 @@ let height = 1.7;
 console.log(height);
 
 // BMI計算
-console.log(68 / [1.7 * 1.7]);
+let bmi = 68 / [1.7 * 1.7];
+
+// コンソールへの出力
+console.log(bmi);

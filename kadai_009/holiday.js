@@ -5,10 +5,10 @@ for (let i = 0; i <= 15; i++) {
 }
 
 
-num = -1;
+let num = -1;
 
-while (num <= 16 ) {
+while (num < 16 ) {
 
-  num++
+  num++;
   console.log(holidays[num]);
 }
